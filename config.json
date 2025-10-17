@@ -1,0 +1,11 @@
+﻿{
+  "discordHost": "canary.discord.com",
+  "webhook": "webhook gir",
+  "password": "token pass gir",
+  "discordToken": "token gir",
+  "guildId": "1384233958870614026",
+  "gatewayUrl": "wss://gateway.discord.gg",
+  "os": "linux",
+  "browser": "firefox",
+  "device": "dekart1017"
+}
