@@ -1,2 +1,2 @@
 # mfa-bypass-vanity-sniper
-vanity sniper dekart1017
+çok fazla bir beklentiniz olmasın piyasadaki boklu snipeların bi tık üstünde
